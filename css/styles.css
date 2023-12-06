@@ -169,6 +169,9 @@ a {
   padding: 120px 0;
   background: #fff;
 }
+.visually-hidden {
+  visibility: hidden;
+}
 
 .section-two-list {
   display: flex;
