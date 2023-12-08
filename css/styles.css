@@ -39,13 +39,14 @@ img {
   margin: 0 auto;
   padding: 0 15px;
 } */
-.container section:first-child {
-  display: flex;
-}
+
 .container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+}
+.header .container {
+  display: flex;
 }
 a {
   text-decoration: none;
