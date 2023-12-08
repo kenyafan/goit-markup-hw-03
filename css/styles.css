@@ -33,11 +33,14 @@ img {
   display: block;
   max-width: 100%;
 }
-.container-header {
+/* .container-header {
   display: flex;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+} */
+.container section:first-child {
+  display: flex;
 }
 .container {
   width: 1158px;
